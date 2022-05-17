@@ -1,9 +1,9 @@
 
-## Nestjs Blog Post App
+## Nest.js Blog Post App
 
 ## Description
 
-Nestjs app for fetching and posting blogs with signin/up capablities
+Nest.js app for fetching and posting blogs with signin/up capablities
 
 ## Installation
 
